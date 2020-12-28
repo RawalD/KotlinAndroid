@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Happy New Year Card</string>
+    <string name="happy_new_year_picture">Happy New Year Picture</string>
+    <string name="from_whom">From Dip</string>
+</resources>
