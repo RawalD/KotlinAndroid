@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Dice</string>
+    <string name="dice_one">0</string>
+</resources>
