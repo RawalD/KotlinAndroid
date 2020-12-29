@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Fun Facts</string>
+    <string name="did_you_know">Did You Know ?</string>
+</resources>
